@@ -3,13 +3,6 @@ How ChatGPT can be used for optimizing logistics operations
 
 In this chapter, we will discuss how ChatGPT can be used to optimize logistics operations. We will cover the basics of ChatGPT and its capabilities, as well as practical examples of how it can be used in the logistics industry.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an advanced AI technology that uses natural language processing (NLP) to understand and respond to human language. It is a type of chatbot that can engage in conversations with humans, answering questions, providing information, and even carrying out tasks.
-
-ChatGPT is particularly useful in the logistics industry because it can analyze large amounts of data and provide accurate and timely information to logistics providers and customers. This improves communication, optimizes inventory levels, and provides real-time updates on shipping statuses and inventory levels.
-
 Practical Examples of Using ChatGPT in Logistics Operations
 -----------------------------------------------------------
 
