@@ -1,5 +1,3 @@
-Chapter 1: Basics of Logistics Industry
-=======================================
 
 In this chapter, we will discuss the basics of the logistics industry, including its definition, different types of logistics services, and the importance of supply chain optimization and logistics management.
 

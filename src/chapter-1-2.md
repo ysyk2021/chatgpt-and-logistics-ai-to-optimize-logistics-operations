@@ -1,5 +1,3 @@
-Explanation of Logistics Industry and Its Importance
-==================================================================
 
 The logistics industry is a critical component of the global economy, encompassing the planning, implementation, and control of the movement and storage of goods from the point of origin to the point of consumption. It includes various processes such as transportation, warehousing, inventory management, and demand planning.
 

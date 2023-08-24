@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Logistics Industry
-======================================================================================================================
 
 In this chapter, we will discuss the benefits of using AI and chatbots in the logistics industry.
 

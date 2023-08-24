@@ -1,5 +1,3 @@
-Chapter 6: Future of Logistics Industry with ChatGPT
-====================================================
 
 In this chapter, we will discuss the future of the logistics industry with ChatGPT. The potential advancements and emerging trends in logistics industry with ChatGPT as well as challenges that may arise will be explored.
 

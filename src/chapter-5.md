@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will discuss the concept of ChatGPT, its features and capabilities, and how it can be used to optimize logistics operations.
 

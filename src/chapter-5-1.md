@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 In this chapter, we will explore what ChatGPT is and how it works. ChatGPT stands for "Chat Generative Pre-trained Transformer" and is a state-of-the-art natural language processing (NLP) tool developed by OpenAI. ChatGPT is based on the transformer architecture and is pre-trained on massive amounts of text data to generate human-like responses to text-based queries.
 

@@ -1,5 +1,3 @@
-Importance of Supply Chain Optimization and Logistics Management
-=========================================================================================================
 
 In this chapter, we will discuss the basics of the logistics industry, the importance of supply chain optimization, and the role of logistics management.
 

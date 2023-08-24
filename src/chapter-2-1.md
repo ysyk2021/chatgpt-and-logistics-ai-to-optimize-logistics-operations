@@ -1,5 +1,3 @@
-Definition of Logistics Industry
-=========================================================================
 
 In this chapter, we will discuss the definition of the logistics industry and its importance in the global economy.
 

@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in logistics industry
-=======================================================================================================
 
 In this chapter, we will discuss the steps to implement ChatGPT in logistics industry. Implementing ChatGPT in logistics operations involves several key steps, including identifying use cases, selecting a provider, integrating with existing systems, training, testing, and launching.
 

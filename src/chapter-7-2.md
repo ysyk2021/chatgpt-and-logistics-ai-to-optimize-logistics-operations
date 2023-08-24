@@ -1,5 +1,3 @@
-Emerging trends and challenges in logistics industry and ChatGPT
-======================================================================================================================
 
 In this chapter, we will discuss the emerging trends and challenges in logistics industry and ChatGPT. As the logistics industry evolves and new technologies emerge, there are several trends and challenges that logistics providers must be aware of in order to stay ahead of the competition.
 

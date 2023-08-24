@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Logistics Industry
-============================================================
 
 In this chapter, we will discuss the role of AI and chatbots in the logistics industry, their potential to optimize logistics operations, and the benefits they can bring to the industry.
 

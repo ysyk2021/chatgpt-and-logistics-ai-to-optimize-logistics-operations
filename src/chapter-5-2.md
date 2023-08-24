@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will explore the features and capabilities of ChatGPT, the AI-powered tool that is revolutionizing the logistics industry. ChatGPT is a state-of-the-art natural language processing (NLP) tool that can be used to improve communication, optimize inventory levels, and provide real-time updates on shipping statuses and inventory levels.
 

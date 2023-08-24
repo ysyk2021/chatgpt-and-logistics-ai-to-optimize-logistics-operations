@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Logistics Industry
-===========================================
 
 In this chapter, we will discuss the challenges faced by the logistics industry, the factors that affect it, and their impact on logistics operations.
 

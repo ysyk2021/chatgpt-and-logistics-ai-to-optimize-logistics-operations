@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential of ChatGPT to optimize logistics operations through AI-powered communication, inventory management, and supply chain optimization. Here is a summary of the key points discussed in this book:
 

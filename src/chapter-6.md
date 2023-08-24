@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT in Logistics Industry
-=====================================================
 
 In this chapter, we will discuss the steps to implement ChatGPT in logistics industry and best practices for using ChatGPT in improving supply chain optimization and logistics management. Additionally, we will provide case studies of logistics providers that have successfully implemented ChatGPT in their services.
 

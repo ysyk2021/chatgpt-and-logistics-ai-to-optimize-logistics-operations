@@ -1,5 +1,3 @@
-Factors Affecting Logistics Industry
-=================================================================================
 
 In this chapter, we will discuss the factors that affect the logistics industry and contribute to the challenges faced by logistics companies.
 

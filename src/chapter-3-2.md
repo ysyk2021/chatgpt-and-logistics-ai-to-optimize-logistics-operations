@@ -1,5 +1,3 @@
-Common Challenges Faced by Logistics Providers
-===========================================================================================
 
 In this chapter, we will discuss the common challenges faced by logistics providers in the industry.
 

@@ -1,5 +1,3 @@
-Different Types of Logistics Services
-==============================================================================
 
 In this chapter, we will discuss the different types of logistics services that are available to businesses.
 

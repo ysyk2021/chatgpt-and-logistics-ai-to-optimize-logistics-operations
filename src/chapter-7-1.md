@@ -1,5 +1,3 @@
-Potential advancements in logistics industry with ChatGPT
-===============================================================================================================
 
 In this chapter, we will discuss the future of the logistics industry with ChatGPT and potential advancements that can be achieved by using this technology. ChatGPT has the potential to revolutionize the logistics industry by improving communication, optimizing inventory levels, and providing real-time updates on shipping statuses and inventory levels.
 
