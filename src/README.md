@@ -10,3 +10,7 @@ We will also explore the emerging trends and challenges in the logistics industr
 Whether you are a logistics professional or simply interested in the latest advancements in AI technology, 'ChatGPT and Logistics: AI to Optimize Logistics Operations' offers valuable insights into the future of this dynamic and exciting field.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
