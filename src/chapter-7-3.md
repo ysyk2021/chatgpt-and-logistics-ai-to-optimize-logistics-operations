@@ -1,5 +1,4 @@
-Chapter 10: Conclusion and Future Outlook
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we conclude our exploration of the integration of ChatGPT and logistics AI to optimize logistics operations. We reflect on the key insights gained throughout the book and provide a glimpse into the future of this dynamic field.
 

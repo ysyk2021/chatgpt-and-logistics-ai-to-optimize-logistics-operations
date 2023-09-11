@@ -1,5 +1,4 @@
-Chapter 6: Impact of Challenges on Logistics Operations
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the impact of various challenges on logistics operations and how ChatGPT and AI can help address these issues. By understanding these challenges and their implications, logistics professionals can better leverage technology to optimize their operations.
 

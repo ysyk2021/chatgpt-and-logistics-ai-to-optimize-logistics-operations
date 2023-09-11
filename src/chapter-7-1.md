@@ -1,5 +1,4 @@
-Chapter 8: Potential Advancements in the Logistics Industry with ChatGPT
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential advancements that can be achieved in the logistics industry with the integration of ChatGPT. As AI technology continues to evolve, ChatGPT offers numerous possibilities for transforming and optimizing logistics operations.
 

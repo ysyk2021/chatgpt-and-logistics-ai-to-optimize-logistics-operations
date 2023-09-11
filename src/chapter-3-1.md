@@ -1,5 +1,4 @@
-Chapter 2: Factors Affecting the Logistics Industry
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various factors that significantly impact the logistics industry. Understanding these factors is crucial for logistics providers to adapt and optimize their operations using ChatGPT and AI technology.
 

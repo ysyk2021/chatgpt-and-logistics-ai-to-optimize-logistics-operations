@@ -1,5 +1,4 @@
-Chapter 2: Importance of Supply Chain Optimization and Logistics Management
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the significance of supply chain optimization and logistics management in driving operational efficiency, cost savings, customer satisfaction, and overall business success.
 

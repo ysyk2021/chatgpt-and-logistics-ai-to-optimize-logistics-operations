@@ -1,5 +1,4 @@
-Chapter 3: Common Challenges Faced by Logistics Providers
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the common challenges faced by logistics providers in their day-to-day operations. Understanding these challenges is essential for devising effective strategies and leveraging ChatGPT and AI to optimize logistics processes.
 

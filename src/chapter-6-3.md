@@ -1,5 +1,4 @@
-Chapter 6: Case Studies of Logistics Providers Implementing ChatGPT in Their Services
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies of logistics providers that have successfully implemented ChatGPT in their services. By leveraging the power of AI-driven chatbots, these companies have enhanced their customer support, improved operational efficiency, and optimized logistics operations.
 

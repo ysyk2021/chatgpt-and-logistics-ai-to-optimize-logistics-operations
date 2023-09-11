@@ -1,5 +1,4 @@
-Chapter 6: How ChatGPT Can Be Used for Optimizing Logistics Operations
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential of ChatGPT and its applications in optimizing logistics operations. ChatGPT, as an AI-powered conversational agent, can provide valuable insights, automate processes, enhance decision-making, and improve overall efficiency in the logistics industry.
 

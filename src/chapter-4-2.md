@@ -1,5 +1,4 @@
-Chapter 3: How AI and Chatbots Can Optimize Logistics Operations
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how AI and chatbot technologies can optimize various aspects of logistics operations, driving efficiency, improving decision-making, and enhancing the overall performance of logistics businesses.
 

@@ -1,5 +1,4 @@
-Chapter 5: Steps to Implement ChatGPT in the Logistics Industry
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps involved in implementing ChatGPT in the logistics industry. These steps provide a high-level overview of the process and can serve as a guide for organizations looking to leverage AI-powered chatbots to optimize their logistics operations.
 
